@@ -38,8 +38,10 @@
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
-  ![isaac-bowen's Stats](https://github-readme-stats.vercel.app/api?username=isaac-bowen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![isaac-bowen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaac-bowen&theme=vue-dark&hide_border=true)
+  Coming Soon
+  
+<!--   ![isaac-bowen's Stats](https://github-readme-stats.vercel.app/api?username=isaac-bowen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![isaac-bowen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaac-bowen&theme=vue-dark&hide_border=true) -->
 </div
   
 <br/>
