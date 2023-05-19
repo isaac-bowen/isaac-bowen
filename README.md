@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👨‍💻 I’m a web developer using Vue 3, Laravel, Tailwind, and more.
+- 👨‍💻 I’m a Full Stack Web Developer using Vue 3, Laravel, Tailwind, and more.
 - 🔨 I've built large CRMs, Financial Tracking Systems, ATS, and much more.
 - 💪🏼 Future Goals: Grow my company Nine Design & meet cool new people.
 - ⚡ Fun fact: I love to mountain bike 🚵.
