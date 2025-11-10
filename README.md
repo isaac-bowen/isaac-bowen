@@ -1,8 +1,8 @@
 ## About Me
 
-- 👨‍💻 I’m a Full Stack Web Developer using Vue 3, Laravel, Tailwind, and more.
+- 👨‍💻 I’m a full stack developer using Vue 3, Laravel, Tailwind, and more.
 - 🔨 I've built large CRMs, Financial Tracking Systems, ATS, and much more.
-- 💪🏼 Future Goals: Grow professionally & meet cool new people.
+- 💪🏼 Current Goals: Run a 10K, keep training consistently, and hit the trails every weekend.  
 - ⚡ Fun fact: I love to mountain bike 🚵.
 
 ---
@@ -25,9 +25,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
-<br/>
-
 ---
+
+### Socials 🌐 
 
 <a href="https://www.linkedin.com/in/isaac-d-bowen/">![Isaac Bowen LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
