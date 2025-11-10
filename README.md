@@ -30,19 +30,4 @@
 
 ---
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  Coming Soon
-  
-<!--   ![isaac-bowen's Stats](https://github-readme-stats.vercel.app/api?username=isaac-bowen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![isaac-bowen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaac-bowen&theme=vue-dark&hide_border=true) -->
-</div
-  
-<br/>
-
----
-
-<a href="https://ninedesign.co/">![Nine Deisgn Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/isaac-d-bowen/">![Isaac Bowen LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
